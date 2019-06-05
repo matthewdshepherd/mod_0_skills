@@ -1,6 +1,6 @@
-How to become a student at Turing
+# How to become a student at Turing
 
-1 Research coding schools
+## 1 Research coding schools
 	1.1 Search for differnt software engineering roles you would like
 	1.2 look for coding schools that meet software engineering roles that you would like
 		1.2.1 search in a certain geographical area
@@ -21,10 +21,10 @@ How to become a student at Turing
 		1.4.2 speak with current students
 		1.4.3 speak with alumni of the program 
 	1.5 make decision of where to apply
-		
 
+---
 
-2 Apply
+## 2 Apply
 	2.1 got to turing.io
 	2.2 click on either FEE or BEE program
 	2.3 within the desired program click apply
