@@ -6,7 +6,7 @@ Attributes
 	students(array of strings)
 	total_capicity
 Methods
-	light_is_on(check the openstatus of the open attribute)
+	light_is_on(check the status of the open attribute)
 	add_student(modify the student array)
 	current_students_in_class(return current length of students array)
 	has_tables(check the value of the table attribute)
