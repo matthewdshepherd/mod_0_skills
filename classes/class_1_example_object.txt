@@ -7,7 +7,7 @@ Values of Attributes
 	students(array of strings): ["Matt", "Katy", "Rachel", "Tim"]
 	total_capicity: 35
 REsult of Methods
-	light_is_on(check the openstatus of the open attribute): true
+	light_is_on(check the status of the open attribute): true
 	add_student(modify the student array): ["Matt", "Katy", "Rachel", "Tim", "Sam", "Sadie"]
 	current_students_in_class(return current length of students array): 6
 	has_tables(check the value of the table attribute): 5
