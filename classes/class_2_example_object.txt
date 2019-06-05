@@ -5,7 +5,7 @@ Values of Attributes
 	clean(boolean): no
 	food(array of strings): ["pizza", "bread", "water", "coffee"]
 Results of Methods
-	kitchen_is_clean(check the openstatus of the clean attribute): no
+	kitchen_is_clean(check the status of the clean attribute): no
 	food(modify the food array): ["pizza", "bread", "water", "coffee", "salad", "hot sauce"]
 	current_napkins_in_kitchen(subtract napkins by total_napkins_taken): 97
 	has_toaster(if >0 return yes): yes
