@@ -1,0 +1,11 @@
+Class: kitchen
+Attributes
+	napkins(integer)
+	toaster(integer)
+	clean(boolean)
+	food(array of strings)
+Methods
+	kitchen_is_clean(check the openstatus of the clean attribute)
+	food(modify the food array)
+	current_napkins_in_kitchen(subtract napkins by total_napkins_taken)
+	has_toaster(if >0 return yes)
