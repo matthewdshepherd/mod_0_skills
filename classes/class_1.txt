@@ -1,0 +1,13 @@
+Class: room
+Attributes
+	chair(integer)
+	table(integer)
+	student_name_tags(string)
+	light(boolean)
+	students(array)
+	total_capicity
+Methods
+	light_is_on(check the openstatus of the open attribute)
+	add_student(modify the student array)
+	current_students_in_class(return currnet lenght of students array)
+	has_tables_station(check the value of the table attribute)
