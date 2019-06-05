@@ -1,0 +1,11 @@
+kitchen 1
+Attributes
+	napkins(integer): 97
+	toaster(integer): 2
+	clean(boolean): no
+	food(array of strings): ["pizza", "bread", "water", "coffee"]
+Methods
+	kitchen_is_clean(check the openstatus of the clean attribute): no
+	food(modify the food array): ["pizza", "bread", "water", "coffee", "salad", "hot sauce"]
+	current_napkins_in_kitchen(subtract napkins by total_napkins_taken): 97
+	has_toaster(if >0 return yes): yes
