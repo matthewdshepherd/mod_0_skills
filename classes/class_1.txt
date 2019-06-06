@@ -4,7 +4,7 @@ Attributes
 	table(integer)
 	light(boolean)
 	students(array of strings)
-	total_capicity
+	total_capicity(integer)
 Methods
 	light_is_on(check the status of the open attribute)
 	add_student(modify the student array)
