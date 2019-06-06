@@ -4,8 +4,13 @@ Attributes
 	toaster(integer)
 	clean(boolean)
 	food(array of strings)
+	soap(float)
 Methods
 	kitchen_is_clean(check the status of the clean attribute)
 	food(modify the food array)
 	current_napkins_in_kitchen(subtract napkins by total_napkins_taken)
 	has_toaster(if >0 return yes)
+Additional Methods
+	take_napkin(modifies the value of napkins)
+	find_food(searches through food array)
+	use_soap(decreases float of soap)
