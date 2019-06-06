@@ -4,6 +4,7 @@ Values of Attributes
 	toaster(integer): 2
 	clean(boolean): no
 	food(array of strings): ["pizza", "bread", "water", "coffee"]
+	soap(float):87.5
 Results of Methods
 	kitchen_is_clean(check the status of the clean attribute): no
 	food(modify the food array): ["pizza", "bread", "water", "coffee", "salad", "hot sauce"]
@@ -12,4 +13,4 @@ Results of Methods
 Additional Methods
 	take_napkin(modifies the value of napkins)
 	find_food(searches through food array)
-	use_soap(decreases float of soap)
+	use_soap(decreases float of soap):86
